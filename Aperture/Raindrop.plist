@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLRaindropCreator</key>
+	<string>Parker Moore</string>
+	<key>CLRaindropDescription</key>
+	<string>Uploads the selected photos.</string>
+	<key>CLRaindropName</key>
+	<string>Aperture</string>
+	<key>CLRaindropTargetBundleID</key>
+	<string>com.apple.Aperture</string>
+	<key>CLRaindropURL</key>
+	<string>http://getcloudapp.com/</string>
+</dict>
+</plist>
